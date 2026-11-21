@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1536" width="1024" height="1536">
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d1718"/><stop offset="1" stop-color="#0b0909"/></linearGradient>
+<radialGradient id="g" cx="0.5" cy="0.35" r="0.6"><stop offset="0" stop-color="#2a1d1f"/><stop offset="1" stop-color="#120d0e"/></radialGradient>
+</defs>
+<g fill="url(#g)" stroke="#ef4151" stroke-width="5" stroke-opacity=".75">
+<path d="M512 330c-118 0-196 92-196 214 0 96 44 178 108 222v62c-150 26-268 92-318 190-30 60-40 160-42 518h896c-2-358-12-458-42-518-50-98-168-164-318-190v-62c64-44 108-126 108-222 0-122-78-214-196-214z"/>
+</g>
+<text x="512" y="1270" font-family="Menlo,Consolas,monospace" font-size="30" letter-spacing="8" fill="#a09c9a" text-anchor="middle">FOTO AHMAD</text>
+<text x="512" y="1320" font-family="Menlo,Consolas,monospace" font-size="22" letter-spacing="6" fill="#6f6a68" text-anchor="middle">SEGERA DIGANTI</text>
+</svg>
