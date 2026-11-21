@@ -13,6 +13,18 @@
   },
   {
     "type": "backend",
+    "title": "fraud-guard",
+    "category": "Backend",
+    "year": "2026",
+    "role": "Java 21 · Anti-fraud & AML · PPATK",
+    "image": "./Asset/img/projects/fraud-guard.webp",
+    "link": "https://github.com/KADAFERHIDUP/fraud-guard",
+    "repo": "https://github.com/KADAFERHIDUP/fraud-guard",
+    "media": "fraud-guard",
+    "description": "Mesin anti-fraud dan anti pencucian uang: setiap transaksi diberi skor risiko 0–100 dari 14 aturan yang bisa dijelaskan (structuring, rekening penampung, velocity, perangkat baru, daftar pantauan), lalu diputuskan lolos, ditahan, atau diblokir. Kasus ditangani analis dan disetujui supervisor yang berbeda (prinsip 4 mata), LTKT dibuat otomatis, LTKM setelah disetujui, dan log audit memakai hash berantai."
+  },
+  {
+    "type": "backend",
     "title": "snap-sim",
     "category": "Backend",
     "year": "2026",

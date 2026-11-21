@@ -19,7 +19,7 @@ const LOCATION = 'LHOKSEUMAWE, ACEH';
 const MotionContext = createContext(true);
 const EASE = [0.22, 1, 0.36, 1];
 const categories = ['Semua', 'Backend', 'Web', 'Web3', 'Mobile'];
-const featured = ['MiniBank', 'snap-sim', 'qris-sim', 'Soundbox S9', 'Squeek Orbit', 'DigiGoat'].map(key => archive.find(p => p.media === key || p.title === key)).filter(Boolean);
+const featured = ['MiniBank', 'fraud-guard', 'snap-sim', 'qris-sim', 'Soundbox S9', 'DigiGoat'].map(key => archive.find(p => p.media === key || p.title === key)).filter(Boolean);
 const experiences = [
   { date: '2022 – 2026', title: 'Pengurus HIMATIF', place: 'Himpunan Mahasiswa Teknik Informatika · Universitas Malikussaleh', text: 'Pengurus Himpunan Mahasiswa Teknik Informatika Universitas Malikussaleh periode 2022–2026.' },
   { date: '2024 – 2025', title: 'Divisi Informasi & Komunikasi', place: 'Ikatan Mahasiswa Aceh Selatan (IMAS)', text: 'Pengurus Ikatan Mahasiswa Aceh Selatan periode 2024–2025 di Divisi Informasi dan Komunikasi.' },
